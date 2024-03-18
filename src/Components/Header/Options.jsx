@@ -31,7 +31,7 @@ const Options = () => {
       }`}
     >
       
-      <div className="  flex flex-col ml-14 font-serif space-y-11 font-semibold text-5xl text-[#003A47] backdrop-blur-lg bg-white bg-opacity-60 p-6">
+      <div className="  flex flex-col ml-14 font-serif space-y-11 font-semibold text-5xl text-[#003A47] backdrop-blur-lg bg-white bg-opacity-95 p-6">
         <Link to={"/"} className="hover:text-blue-400">
           Home
         </Link>
